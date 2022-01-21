@@ -1,0 +1,9 @@
+{
+	"name": "markjradf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5678b05d-59eb-41d3-af88-a9b60e8c872d",
+		"tenantId": "07cc872f-b6e3-487f-834e-25eb4f34ddad"
+	}
+}
